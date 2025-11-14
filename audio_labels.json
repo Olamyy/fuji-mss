@@ -1,0 +1,547 @@
+{
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/WYnlju5kJsU.mp3": {
+    "label": "clean",
+    "timestamp": "2025-11-10T21:07:23.819774",
+    "filename": "WYnlju5kJsU.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/Gz6W3OxHUqg.mp3": {
+    "label": "clean",
+    "timestamp": "2025-11-10T21:07:37.358774",
+    "filename": "Gz6W3OxHUqg.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/BFdriuZNMSs.mp3": {
+    "label": "clean",
+    "timestamp": "2025-11-10T21:07:48.751108",
+    "filename": "BFdriuZNMSs.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/3UQQZ0k8tEQ.mp3": {
+    "label": "clean",
+    "timestamp": "2025-11-10T21:08:00.434892",
+    "filename": "3UQQZ0k8tEQ.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/rZT5Ez82iKQ.mp3": {
+    "label": "clean",
+    "timestamp": "2025-11-10T21:08:11.902587",
+    "filename": "rZT5Ez82iKQ.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/PZ8hWcPZepA.mp3": {
+    "label": "clean",
+    "timestamp": "2025-11-10T21:08:26.337476",
+    "filename": "PZ8hWcPZepA.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/z-LcG1D5ymg.mp3": {
+    "label": "clean",
+    "timestamp": "2025-11-10T21:08:38.467986",
+    "filename": "z-LcG1D5ymg.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/UnvPDavQJU0.mp3": {
+    "label": "clean",
+    "timestamp": "2025-11-10T21:08:49.802613",
+    "filename": "UnvPDavQJU0.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/3Ch1MlMkHj4.mp3": {
+    "label": "clean",
+    "timestamp": "2025-11-10T21:09:01.175852",
+    "filename": "3Ch1MlMkHj4.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/yhIGkFSMLWg.mp3": {
+    "label": "clean",
+    "timestamp": "2025-11-10T21:09:29.587908",
+    "filename": "yhIGkFSMLWg.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/1hcrITsx5OQ.mp3": {
+    "label": "clean",
+    "timestamp": "2025-11-10T21:09:54.204525",
+    "filename": "1hcrITsx5OQ.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/-ELJvKxbivI.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:10:06.887372",
+    "filename": "-ELJvKxbivI.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/gYI0e9mcCnQ.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:10:17.794483",
+    "filename": "gYI0e9mcCnQ.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/4sCeSkzUWPk.mp3": {
+    "label": "clean",
+    "timestamp": "2025-11-10T21:10:28.756653",
+    "filename": "4sCeSkzUWPk.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/Wb6YNmvejiA.mp3": {
+    "label": "clean",
+    "timestamp": "2025-11-10T21:10:44.721315",
+    "filename": "Wb6YNmvejiA.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/Wm21eJwnib8.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:11:07.202776",
+    "filename": "Wm21eJwnib8.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/wSQQK5FQtZo.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:11:54.912235",
+    "filename": "wSQQK5FQtZo.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/yBjjSElJYW4.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:12:19.789533",
+    "filename": "yBjjSElJYW4.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/FnZESS3Qr-M.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:12:31.500572",
+    "filename": "FnZESS3Qr-M.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/S8hEIfWrT4A.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:12:43.287727",
+    "filename": "S8hEIfWrT4A.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/CseJMr6JBeY.mp3": {
+    "label": "clean",
+    "timestamp": "2025-11-10T21:12:54.192209",
+    "filename": "CseJMr6JBeY.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/WlkmJKspBes.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:13:10.567370",
+    "filename": "WlkmJKspBes.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/CSw6u7YrpLQ.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:13:30.815579",
+    "filename": "CSw6u7YrpLQ.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/dCcb0hWzuB8.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:13:41.783954",
+    "filename": "dCcb0hWzuB8.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/zVM81EHvQkA.mp3": {
+    "label": "clean",
+    "timestamp": "2025-11-10T21:13:52.841442",
+    "filename": "zVM81EHvQkA.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/QIHGAnrPmQ8.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:14:05.612596",
+    "filename": "QIHGAnrPmQ8.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/JjqcMICU2Fk.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:14:21.669626",
+    "filename": "JjqcMICU2Fk.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/xf2uVRI0uU0.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:14:34.413439",
+    "filename": "xf2uVRI0uU0.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/oy5PiWPy45U.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:14:49.190029",
+    "filename": "oy5PiWPy45U.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/dD3M6tzx_3o.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:15:04.279551",
+    "filename": "dD3M6tzx_3o.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/J8MEblHXzpQ.mp3": {
+    "label": "clean",
+    "timestamp": "2025-11-10T21:15:31.444083",
+    "filename": "J8MEblHXzpQ.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/I1upyyn5mxA.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:15:42.367644",
+    "filename": "I1upyyn5mxA.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/lKbcCyvo5mk.mp3": {
+    "label": "clean",
+    "timestamp": "2025-11-10T21:16:37.703660",
+    "filename": "lKbcCyvo5mk.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/VkQsI0qcHZ0.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:16:51.215001",
+    "filename": "VkQsI0qcHZ0.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/2uvve2F-2HY.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:17:08.947498",
+    "filename": "2uvve2F-2HY.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/hUGEX4ItR6s.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:17:33.835573",
+    "filename": "hUGEX4ItR6s.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/8tG6skMLB1k.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:17:45.800063",
+    "filename": "8tG6skMLB1k.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/D6caJDpCdjY.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:17:57.606137",
+    "filename": "D6caJDpCdjY.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/1CUIyWYR3x8.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:18:11.008471",
+    "filename": "1CUIyWYR3x8.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/YU3H8nCTBXE.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:18:29.441876",
+    "filename": "YU3H8nCTBXE.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/BxSJ5hiQEmg.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:18:45.880257",
+    "filename": "BxSJ5hiQEmg.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/0z03Rr2Z1a4.mp3": {
+    "label": "clean",
+    "timestamp": "2025-11-10T21:19:03.209504",
+    "filename": "0z03Rr2Z1a4.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/rF4RZRvmm8E.mp3": {
+    "label": "clean",
+    "timestamp": "2025-11-10T21:19:18.538377",
+    "filename": "rF4RZRvmm8E.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/wzREkgFIqtI.mp3": {
+    "label": "clean",
+    "timestamp": "2025-11-10T21:19:34.011709",
+    "filename": "wzREkgFIqtI.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/prQf7FLxdl4.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:19:47.015263",
+    "filename": "prQf7FLxdl4.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/-X3752b3iUg.mp3": {
+    "label": "clean",
+    "timestamp": "2025-11-10T21:20:03.843589",
+    "filename": "-X3752b3iUg.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/q6d6QVts2WI.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:20:18.147248",
+    "filename": "q6d6QVts2WI.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/WA9uYnzdfSA.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:20:35.336760",
+    "filename": "WA9uYnzdfSA.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/9NiJ378la24.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:20:48.051210",
+    "filename": "9NiJ378la24.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/ay-TD3hODPc.mp3": {
+    "label": "clean",
+    "timestamp": "2025-11-10T21:21:06.718544",
+    "filename": "ay-TD3hODPc.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/NImvWHEaTKM.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:21:19.809932",
+    "filename": "NImvWHEaTKM.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/2Z70qpvXcPI.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:21:37.392886",
+    "filename": "2Z70qpvXcPI.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/i3ZdqtaVbUs.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:22:22.545502",
+    "filename": "i3ZdqtaVbUs.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/Wx5MRC4IfO8.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:22:36.844672",
+    "filename": "Wx5MRC4IfO8.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/4ZrLjk32vco.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:22:51.930697",
+    "filename": "4ZrLjk32vco.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/wtafSMMlytU.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:23:05.692450",
+    "filename": "wtafSMMlytU.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/Nsy3MSDk02o.mp3": {
+    "label": "clean",
+    "timestamp": "2025-11-10T21:23:21.833221",
+    "filename": "Nsy3MSDk02o.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/HT3Z8myTQI0.mp3": {
+    "label": "clean",
+    "timestamp": "2025-11-10T21:23:36.175777",
+    "filename": "HT3Z8myTQI0.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/6rNekDFCCmU.mp3": {
+    "label": "clean",
+    "timestamp": "2025-11-10T21:23:57.250239",
+    "filename": "6rNekDFCCmU.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/o-mQgpi36v8.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:24:36.221592",
+    "filename": "o-mQgpi36v8.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/4hB_XFpkDxA.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:24:54.206825",
+    "filename": "4hB_XFpkDxA.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/S7Z2ZkbI2cI.mp3": {
+    "label": "clean",
+    "timestamp": "2025-11-10T21:25:25.420323",
+    "filename": "S7Z2ZkbI2cI.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/cM8_uEWFtyI.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:30:54.646109",
+    "filename": "cM8_uEWFtyI.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/33vUXBlrQUQ.mp3": {
+    "label": "clean",
+    "timestamp": "2025-11-10T21:31:07.267757",
+    "filename": "33vUXBlrQUQ.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/KBgvNE_LHao.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:31:22.570780",
+    "filename": "KBgvNE_LHao.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/jZ06LNJzLZk.mp3": {
+    "label": "clean",
+    "timestamp": "2025-11-10T21:32:00.177613",
+    "filename": "jZ06LNJzLZk.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/jvHmYM6azEE.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:32:30.586729",
+    "filename": "jvHmYM6azEE.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/w2YvN1exrCM.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:34:49.589005",
+    "filename": "w2YvN1exrCM.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/1on6hXI9ibY.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:35:00.761455",
+    "filename": "1on6hXI9ibY.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/qvPcDIP6kwU.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:35:11.580586",
+    "filename": "qvPcDIP6kwU.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/30GByHUtrBI.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:35:26.800185",
+    "filename": "30GByHUtrBI.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/pSiNj-So3Ow.mp3": {
+    "label": "clean",
+    "timestamp": "2025-11-10T21:35:55.834612",
+    "filename": "pSiNj-So3Ow.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/OEAxio6lCtU.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:36:14.956972",
+    "filename": "OEAxio6lCtU.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/tw16YrfGpxQ.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:36:33.803192",
+    "filename": "tw16YrfGpxQ.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/Ov-j7200UXo.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:37:06.527183",
+    "filename": "Ov-j7200UXo.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/BHltNIMROWM.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:39:20.954037",
+    "filename": "BHltNIMROWM.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/tSfyr4G_ksQ.mp3": {
+    "label": "clean",
+    "timestamp": "2025-11-10T21:39:33.348004",
+    "filename": "tSfyr4G_ksQ.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/0OyotP8DjSo.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:40:04.476803",
+    "filename": "0OyotP8DjSo.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/ULkN1L4-H2U.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:40:59.825200",
+    "filename": "ULkN1L4-H2U.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/LGCJ9sHgrVI.mp3": {
+    "label": "clean",
+    "timestamp": "2025-11-10T21:41:11.182874",
+    "filename": "LGCJ9sHgrVI.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/g9jZdiDxC2s.mp3": {
+    "label": "clean",
+    "timestamp": "2025-11-10T21:41:22.918449",
+    "filename": "g9jZdiDxC2s.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/-7dvhz949cU.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:41:37.875664",
+    "filename": "-7dvhz949cU.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/X-AoKORIxF4.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:41:57.363011",
+    "filename": "X-AoKORIxF4.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/ciLK9vBRsHc.mp3": {
+    "label": "clean",
+    "timestamp": "2025-11-10T21:46:01.499292",
+    "filename": "ciLK9vBRsHc.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/l-HbjRn523M.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:46:16.826248",
+    "filename": "l-HbjRn523M.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/JmhcyqdEqJE.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:46:29.530507",
+    "filename": "JmhcyqdEqJE.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/b6Dpsmo5z7g.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:46:51.088051",
+    "filename": "b6Dpsmo5z7g.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/yaS64M5d0qQ.mp3": {
+    "label": "clean",
+    "timestamp": "2025-11-10T21:47:08.970392",
+    "filename": "yaS64M5d0qQ.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/ww2Ov3r-WhA.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:47:22.549822",
+    "filename": "ww2Ov3r-WhA.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/qlT_Cx_g1S4.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:47:37.876491",
+    "filename": "qlT_Cx_g1S4.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/fJH2Ig7JYLA.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:47:57.386779",
+    "filename": "fJH2Ig7JYLA.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/TNibVX9Qk3Y.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:51:12.693915",
+    "filename": "TNibVX9Qk3Y.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/fxzOIO1lfyU.mp3": {
+    "label": "clean",
+    "timestamp": "2025-11-10T21:57:55.347237",
+    "filename": "fxzOIO1lfyU.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/1S6vBIRH4NE.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:58:19.717280",
+    "filename": "1S6vBIRH4NE.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/RQVxSN2vuUU.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:58:56.303978",
+    "filename": "RQVxSN2vuUU.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/Q5rcyZonIcc.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:59:20.205838",
+    "filename": "Q5rcyZonIcc.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/V7IIMM7wYog.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T21:59:55.379243",
+    "filename": "V7IIMM7wYog.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/7zgX00PdJ68.mp3": {
+    "label": "clean",
+    "timestamp": "2025-11-10T22:01:35.273233",
+    "filename": "7zgX00PdJ68.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/U6aCe9D2fOc.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T22:02:06.470353",
+    "filename": "U6aCe9D2fOc.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/a0FrrnYh3Go.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T22:02:19.832852",
+    "filename": "a0FrrnYh3Go.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/r47-Ozj-ucU.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T22:02:46.672257",
+    "filename": "r47-Ozj-ucU.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/Sjitfx1hKM4.mp3": {
+    "label": "clean",
+    "timestamp": "2025-11-10T22:03:30.103044",
+    "filename": "Sjitfx1hKM4.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/E0d1--Zvgsw.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T22:03:43.434099",
+    "filename": "E0d1--Zvgsw.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/DrQbQanNLoc.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T22:04:04.509597",
+    "filename": "DrQbQanNLoc.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/Q4L3a8MO8iU.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T22:04:24.522297",
+    "filename": "Q4L3a8MO8iU.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/wyZlp4BlFRM.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T22:04:52.600954",
+    "filename": "wyZlp4BlFRM.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/4QIMUbhY3Js.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T22:05:04.267574",
+    "filename": "4QIMUbhY3Js.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/d38EinT2Yn4.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T22:05:19.072309",
+    "filename": "d38EinT2Yn4.mp3"
+  },
+  "/Users/ola.wahab/Downloads/fujidb/data/songs/zzak-WkYn2E.mp3": {
+    "label": "dirty",
+    "timestamp": "2025-11-10T22:05:32.660116",
+    "filename": "zzak-WkYn2E.mp3"
+  }
+}
