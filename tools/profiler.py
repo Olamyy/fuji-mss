@@ -211,7 +211,7 @@ if __name__ == "__main__":
     profiler = FujiAudioProfiler(sr=22050)
 
     print("Starting dataset profiling...")
-    df = profiler.profile_dataset(args.audio_directory, sample_size=args.sample_size, output_path=args.output)
+    df = profiler.profile_dataset(args.input, sample_size=args.sample, output_path=args.output)
 
     report = profiler.generate_quality_report(df)
     print(json.dumps(report, indent=2))
