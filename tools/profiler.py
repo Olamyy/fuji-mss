@@ -204,7 +204,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Profile audio dataset and generate a quality report.")
     parser.add_argument('--input', type=str, default="/content/drive/MyDrive/fuji-mss/songs", help='Path to the directory containing audio files.')
     parser.add_argument('--output', type=str, default='/content/drive/MyDrive/fuji-mss/fuji_dataset_profile.csv', help='Output CSV file for the profile data.')
-    parser.add_argument('--sample_size', type=int, default=100, help='Number of audio files to sample from the dataset.')
+    parser.add_argument('--sample', type=int, default=200, help='Number of audio files to sample from the dataset.')
 
     args = parser.parse_args()
 
