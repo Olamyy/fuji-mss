@@ -4,6 +4,7 @@ import pandas as pd
 from pathlib import Path
 from typing import Dict
 import json
+import argparse
 
 
 class FujiAudioProfiler:
@@ -199,19 +200,20 @@ class FujiAudioProfiler:
         return report
 
 
-# Usage example
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Profile audio dataset and generate a quality report.")
+    parser.add_argument('--input', type=str, default="/content/drive/MyDrive/fuji-mss/songs", help='Path to the directory containing audio files.')
+    parser.add_argument('--output', type=str, default='/content/drive/MyDrive/fuji-mss/fuji_dataset_profile.csv', help='Output CSV file for the profile data.')
+    parser.add_argument('--sample_size', type=int, default=100, help='Number of audio files to sample from the dataset.')
+
+    args = parser.parse_args()
+
     profiler = FujiAudioProfiler(sr=22050)
 
-    # Profile dataset
     print("Starting dataset profiling...")
-    df = profiler.profile_dataset('/Users/ola.wahab/Downloads/fujidb/data/songs', sample_size=5)
+    df = profiler.profile_dataset(args.audio_directory, sample_size=args.sample_size, output_path=args.output)
 
-    # Generate report
     report = profiler.generate_quality_report(df)
     print(json.dumps(report, indent=2))
 
-    # print("\nTo use this script:")
-    # print("1. Set your audio directory path")
-    # print("2. Run: df = profiler.profile_dataset('your/path/here')")
-    # print("3. Generate report: report = profiler.generate_quality_report(df)")
+    print(f"\nDataset profile saved to {args.output}")
